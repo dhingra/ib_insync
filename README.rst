@@ -96,9 +96,7 @@ The software is provided on the conditions of the simplified BSD license.
 
 This project is not affiliated with Interactive Brokers Group, Inc.'s.
 
-Good luck and enjoy,
 
-:author: Ewald de Wit <ewald.de.wit@gmail.com>
 
 .. _`Interactive Brokers Python API`: http://interactivebrokers.github.io
 
